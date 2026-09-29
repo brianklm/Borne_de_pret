@@ -31,3 +31,4 @@ Cette version ajoute :
 Lorsqu'un emprunt est terminé et que l'option "Imprimer un reçu" est cochée :
 - le reçu est affiché dans une fenêtre (JTextArea monospacée)
 - l'application propose d'enregistrer ce reçu dans un fichier texte (`.txt`).
+# Borne_de_pret
