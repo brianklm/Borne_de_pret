@@ -1,3 +1,4 @@
+<img width="753" height="519" alt="Capture d’écran, le 2026-09-28 à 23 57 44" src="https://github.com/user-attachments/assets/d3f7154e-622b-4878-8397-d0fc136d479e" />
 # INF1163 — Borne de prêt (Swing) – Bilingue FR/EN + Reçu TXT
 
 **Date du pack** : 2025-11-13
